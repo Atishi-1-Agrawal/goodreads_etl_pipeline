@@ -113,7 +113,7 @@ Data Loaded to Warehouse:
 
 ## Scenarios
 
--   Data increase by 100x. read > write. write > read
+-   Data increases by 100x. read > write. write > read
     
     -   Redshift: Analytical database, optimized for aggregation, also good performance for read-heavy workloads
     -   Increase EMR cluster size to handle bigger volume of data
